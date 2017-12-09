@@ -4,4 +4,4 @@ sujanStevens: "Silver and Gold"};
 function updateObjectWithKeyAndValue ({obj, key, value}
   Object.assign({}, obj, {[key]:value})
 )
-  const playlist = {: ''}
+  const playlist = {toveLo: 'Habits'}
