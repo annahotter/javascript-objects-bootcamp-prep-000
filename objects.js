@@ -1,5 +1,4 @@
-var playlist = {theMountainGoats: "Color in your Cheeks",
-sujanStevens: "Silver and Gold"};
+var playlist = new Object({theMountainGoats: 'Color in your Cheeks'})
 
 function updateObjectWithKeyAndValue ({obj, key, value}
   Object.assign({}, obj, {[key]:value})
