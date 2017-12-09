@@ -1,1 +1,3 @@
-var playlist = { [mountainGoats]: 'color' }
+var playlist = {};
+
+var playlist = { kanye: "stronger"};
