@@ -1,4 +1,4 @@
-var playlist = new Object({theMountainGoats: 'Color in your Cheeks'})
+var playlist = {}
 
 function updateObjectWithKeyAndValue ({obj, key, value}
   Object.assign({}, obj, {[key]:value})
