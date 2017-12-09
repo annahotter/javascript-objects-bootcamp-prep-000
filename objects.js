@@ -1,6 +1,4 @@
-var playlist = {
-  mountainGoats: 'color'
-};
+var meals = { [mountainGoats]: 'color' }
 
 function updateObjectWithKeyAndValue ({obj, key, value}
   Object.assign({}, obj, {[key]:value})
